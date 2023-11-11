@@ -1,6 +1,6 @@
 body
 {
-	background: lightblue;
+	background: red;
 }
 
 	.login_div1 , .login_div2
@@ -33,4 +33,9 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
 }
